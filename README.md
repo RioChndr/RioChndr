@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Rio Chandra
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Stark Industries**
 - 🌱 I’m currently learning **Mobile Development, Website Development, Machine Learning**
 - 👯 I’m looking to collaborate on **Open Source project to kill my boring**
