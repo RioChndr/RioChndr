@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rio Chandra
+### Hi there 👋 My name is Rio Chandra
 
 - 🔭 I’m currently working on **Stark Industries**
 - 🌱 I’m currently learning **Mobile Development, Website Development, Machine Learning**
