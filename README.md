@@ -14,8 +14,8 @@
 
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=riochandra1212&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=RioChndr&show_icons=true)
 
 ## My Github Most Used Language
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riochandra1212&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RioChndr&theme=vue">
